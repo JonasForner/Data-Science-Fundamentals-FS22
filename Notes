@@ -19,22 +19,3 @@
       "nbconvert_exporter": "python",
       "pygments_lexer": "ipython3",
       "version": "3.6.8"
-    },
-    "colab": {
-      "name": "01-Basic-Python-1.ipynb",
-      "provenance": [],
-      "toc_visible": true,
-      "include_colab_link": true
-    }
-  },
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/JonasForner/Data Science Fundamentals/blob/main/01_Basic_Python_1.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
